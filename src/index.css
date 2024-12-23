@@ -8,3 +8,9 @@
     width: 80%;
     max-width: 1000px;
 }
+
+.post-card{
+    padding: 0.6rem 0rem;
+    background-color: rgba(250, 235, 215, 0.588);
+    border-radius: 20px;
+}
